@@ -28,20 +28,19 @@ Exam test variant from the previous year: [exam](Materials/test_exam.pdf), [refe
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 03.09.25  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  | [Whiteboard](Materials/DL01.pdf)<br> [Video](https://youtu.be/rQCaRS2_lyk?si=B14quh3B0w1WRy9E)    |
-| 10.09.25  | 02  | DropOut regularization, Batch Normalization, Weights initialization, PyTorch library, Stochastic optimization for NNs  | [Whiteboard](Materials/DL02.pdf)<br> [Video](https://youtu.be/YuQBWe-czLo) |
-| 17.09.25  | 03  | Stochastic optimization for NNs, convolutional neural networks | [Whiteboard](Materials/DL03.pdf)<br> [Presentation](Materials/convnets.pptx)<br> [Video](https://youtu.be/uOoNKD-Oal4)
-| 24.09.25  | 04  | Semantic image segmentation, Object detection on images, Image style transfer | [Presentation](Materials/segmentation_detection_st.pptx)<br> [Video](https://youtu.be/qAUnM9_Afc8)
-| 01.10.25  | 05  | Recurrent neural networks, Attention mechanism | [Whiteboard](Materials/DL05.pdf)<br> [Presentation](Materials/rnns.pptx)<br> [Video](https://youtu.be/OdgX6RYywuw)
-| 08.10.25  | 06  | NNs for texts: tokenizers, teacher forcing, beam search, CTC loss, non-differentiable losses | [Whiteboard](Materials/DL06.pdf)<br> [Video](https://youtu.be/cwcLSMZp0Dk)
-| 15.10.25  | 07  | Word embeddings, Transformers | [Whiteboard](Materials/DL07.pdf)<br> [Presentation](Materials/transformers.pptx)<br> [Video](https://youtu.be/-n4zIVCRVck)
-| 22.10.25  | 08  | Generative Adversarial Networks | [Whiteboard](Materials/DL08.pdf)<br> [Presentation](Materials/GANs.pptx)<br> [Video](https://youtu.be/Q85yM1Pt7CQ)
-| 29.10.25  | 09  | Normalizing Flows | [Whiteboard](Materials/DL09.pdf)<br> [Video](https://youtu.be/t1j9vtZBgv0)
-| 05.11.25  | 10  | Audio Spectrograms | [Whiteboard](Materials/DL10.pdf)<br> [Video](https://youtu.be/_J-1lPbKzJ4)
-| 12.11.25  | 11  | NNs for audio: Automatic Speech Recognition (ASR) and Text-To-Speech (TTS) models | [Presentation](Materials/audio_models.pptx)<br> [Video](https://youtu.be/AtgPlYsCy08)
-| 19.11.25  | 12  | NNs for control: Introduction to Reinforcement Learning, Bellman equations, Value Iteration, DQN  | [Whiteboard](Materials/DL12.pdf)<br> [Video](https://youtu.be/8Mn1BC_zWbQ)
-| 26.11.25  | 13  | Policy Gradient RL: Reinforce, A2C. RL from Human Feedback, DPO. | [Whiteboard](Materials/DL13.pdf)<br> [Video](https://youtu.be/6dizeU_9FEA)
-| 03.12.25  | 14  | Contrastive Learning, NN quantization  | [Whiteboard](Materials/DL14.pdf)<br> [Video](https://youtu.be/4oKyXCehs6o)
+| 09.09.26  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  |     |
+| 16.09.26  | 02  |    |
+| 23.09.26  | 03  |    |
+| 30.09.26  | 04  |    |
+| 07.10.26  | 05  |    |
+| 14.10.26  | 06  |    |
+| 21.10.26  | 07  |    |
+| 28.10.26  | 08  |    |
+| 04.11.26  | 09  |    |
+| 11.11.26  | 10  |    |
+| 18.11.26  | 11  |    |
+| 25.11.26  | 12  |    |
+| 02.12.26  | 13  |    |
 
 ## Recommended reading
 1. Simon J.D. Prince. [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023. 
