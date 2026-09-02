@@ -22,7 +22,7 @@ Bonus: 10% to the exam grade for the total practical assignments grade >= 65%, 5
 
 ## Exam
 
-Exam test variant from the previous year: [exam](Materials/test_exam.pdf), [reference solution](Materials/test_exam_with_answers.pdf)
+Exam test variant from the previous year: [exam](https://github.com/cub-deep-learning/fall25/blob/main/Materials/test_exam.pdf), [reference solution](https://github.com/cub-deep-learning/fall25/blob/main/Materials/test_exam_with_answers.pdf)
 
 ## Lectures
 
