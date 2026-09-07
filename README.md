@@ -4,6 +4,8 @@ This is an introductory course on neural network models and their application fo
 
 **Instructor:** Dmitry Kropotov
 
+**Teacher assistant:** Danila Biktimirov
+
 **Classes:** on Wednesdays in hybrid format in time slots 14:15 - 15:30 and 15:45 - 17:00. Room IRC-Seminar room III. The first class is scheduled for the 9th of September.
 
 **Zoom for classes:** [link](https://constructor-university.zoom-x.de/j/63435144493?pwd=Vbu11uasw4NYC7XclvBCQH42bbtSRX.1)
