@@ -30,7 +30,7 @@ Exam test variant from the previous year: [exam](https://github.com/cub-deep-lea
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 09.09.26  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  | [Whiteboard](Materials/DL01.pdf)    |
+| 09.09.26  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  | [Whiteboard](Materials/DL01.pdf)<br> [Video](https://youtu.be/ibmoH4QlP8I)    |
 | 16.09.26  | 02  |    |
 | 23.09.26  | 03  |    |
 | 30.09.26  | 04  |    |
