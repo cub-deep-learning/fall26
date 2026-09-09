@@ -10,7 +10,7 @@ This is an introductory course on neural network models and their application fo
 
 **Zoom for classes:** [link](https://constructor-university.zoom-x.de/j/63435144493?pwd=Vbu11uasw4NYC7XclvBCQH42bbtSRX.1)
 
-**Videorecordings of lectures:** TBA
+**Videorecordings of lectures:** [link](https://www.youtube.com/playlist?list=PLA09iLOj_pL4)
 
 **Questions and discussion:** please use Teams space
 
