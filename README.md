@@ -32,7 +32,7 @@ Exam test variant from the previous year: [exam](https://github.com/cub-deep-lea
 | :---: | :---: | --- | --- |
 | 09.09.26  | 01  | Introduction to Deep Learning, Multilayer perceptron, Automatic differentiation  | [Whiteboard](Materials/DL01.pdf)<br> [Video](https://youtu.be/ibmoH4QlP8I)    |
 | 16.09.26  | 02  | Regularization, Normalization, Weight initialization for NNs. PyTorch library.   | [Whiteboard](Materials/DL02.pdf)<br> PyTorch: ([pptx](Materials/pytorch.pptx), [pdf](Materials/pytorch.pdf))<br> [Video](https://youtu.be/6hvPXiJKp5c) |
-| 23.09.26  | 03  |    |
+| 23.09.26  | 03  | Optimization for NNs: SGD+momentum, AdamW, MuOn. Convolutional NNs.   | [Whiteboard](Materials/DL03.pdf)<br> Convnets: ([pptx](Materials/convnets.pptx), [pdf](Materials/convnets.pdf))<br> [Video](https://youtu.be/BZpp5z1FapU)
 | 30.09.26  | 04  |    |
 | 07.10.26  | 05  |    |
 | 14.10.26  | 06  |    |
