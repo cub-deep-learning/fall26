@@ -34,15 +34,15 @@ Exam test variant from the previous year: [exam](https://github.com/cub-deep-lea
 | 16.09.26  | 02  | Regularization, Normalization, Weight initialization for NNs. PyTorch library.   | [Whiteboard](Materials/DL02.pdf)<br> PyTorch: ([pptx](Materials/pytorch.pptx), [pdf](Materials/pytorch.pdf))<br> [Video](https://youtu.be/6hvPXiJKp5c) |
 | 23.09.26  | 03  | Optimization for NNs: SGD+momentum, AdamW, MuOn. Convolutional NNs.   | [Whiteboard](Materials/DL03.pdf)<br> Convnets: ([pptx](Materials/convnets.pptx), [pdf](Materials/convnets.pdf))<br> [Video](https://youtu.be/BZpp5z1FapU)
 | 30.09.26  | 04  | Semantic image segmentation, object detection, image style transfer.   | Presentation: ([pptx](Materials/segmentation_detection_st.pptx), [pdf](Materials/segmentation_detection_st.pdf))<br> [Video](https://youtu.be/3LLxtmISnSQ)
-| 07.10.26  | 05  |    |
-| 14.10.26  | 06  |    |
-| 21.10.26  | 07  |    |
-| 28.10.26  | 08  |    |
-| 04.11.26  | 09  |    |
-| 11.11.26  | 10  |    |
-| 18.11.26  | 11  |    |
-| 25.11.26  | 12  |    |
-| 02.12.26  | 13  |    |
+| 07.10.26  | _--_  | _The classes are cancelled because of Research Day_   |
+| 14.10.26  | 05  |    |
+| 21.10.26  | 06  |    |
+| 28.10.26  | 07  |    |
+| 04.11.26  | 08  |    |
+| 11.11.26  | 09  |    |
+| 18.11.26  | 10  |    |
+| 25.11.26  | 11  |    |
+| 02.12.26  | 12  |    |
 
 ## Recommended reading
 1. Simon J.D. Prince. [Understanding Deep Learning](https://udlbook.github.io/udlbook/), MIT Press, 2023. 
