@@ -36,7 +36,7 @@ Exam test variant from the previous year: [exam](https://github.com/cub-deep-lea
 | 30.09.26  | 04  | Semantic image segmentation, object detection, image style transfer.   | Presentation: ([pptx](Materials/segmentation_detection_st.pptx), [pdf](Materials/segmentation_detection_st.pdf))<br> [Video](https://youtu.be/3LLxtmISnSQ)
 | 07.10.26  | _--_  | _The classes are cancelled because of Research Day_   |
 | 14.10.26  | 05  | Recurrent Neural Networks. Attention mechanism.  |  [Whiteboard](Materials/DL05.pdf)<br> Presentation: ([pptx](Materials/rnns.pptx), [pdf](Materials/rnns.pdf))<br> [Video](https://youtu.be/pkPPM82D6-w)
-| 21.10.26  | 06  | NNs for texts: tokenizers, word embeddings, teacher forcing, beam search, CTC loss, non-differentiable losses   |  [Whiteboard](Materials/DL06.pdf)<br> [Video]()
+| 21.10.26  | 06  | NNs for texts: tokenizers, word embeddings, teacher forcing, beam search, CTC loss, non-differentiable losses   |  [Whiteboard](Materials/DL06.pdf)<br> [Video](https://youtu.be/MlvUGB4sFdg)
 | 28.10.26  | 07  |    |
 | 04.11.26  | 08  |    |
 | 11.11.26  | 09  |    |
