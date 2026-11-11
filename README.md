@@ -39,7 +39,7 @@ Exam test variant from the previous year: [exam](https://github.com/cub-deep-lea
 | 21.10.26  | 06  | NNs for texts: tokenizers, word embeddings, teacher forcing, beam search, CTC loss, non-differentiable losses   |  [Whiteboard](Materials/DL06.pdf)<br> [Video](https://youtu.be/MlvUGB4sFdg)
 | 28.10.26  | 07  | Transformers   | [Whiteboard](Materials/DL07.pdf)<br> Presentation: ([pptx](Materials/transformers.pptx), [pdf](Materials/transformers.pdf))<br> [Video](https://youtu.be/2Umjs2R50eI)
 | 04.11.26  | 08  | Generative Adversarial Networks (GANs)   |  [Whiteboard](Materials/DL08.pdf)<br> [Video](https://youtu.be/kIRnDgH39xM)
-| 11.11.26  | 09  |    |
+| 11.11.26  | 09  | Audio Spectrograms   | [Whiteboard](Materials/DL09.pdf)<br> [Video](https://youtu.be/9Xo9wlMePjk)
 | 18.11.26  | 10  |    |
 | 25.11.26  | 11  |    |
 | 02.12.26  | 12  |    |
