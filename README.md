@@ -24,6 +24,8 @@ Bonus: 10% to the exam grade for the total practical assignments grade >= 65%, 5
 
 ## Exam
 
+The online written exam is planned for the 12th of December (Saturday), 12:30 - 14:30 on CLMS platform (learn.constructor.university).
+
 Exam test variant from the previous year: [exam](https://github.com/cub-deep-learning/fall25/blob/main/Materials/test_exam.pdf), [reference solution](https://github.com/cub-deep-learning/fall25/blob/main/Materials/test_exam_with_answers.pdf)
 
 ## Lectures
