@@ -42,7 +42,7 @@ Exam test variant from the previous year: [exam](https://github.com/cub-deep-lea
 | 28.10.26  | 07  | Transformers   | [Whiteboard](Materials/DL07.pdf)<br> Presentation: ([pptx](Materials/transformers.pptx), [pdf](Materials/transformers.pdf))<br> [Video](https://youtu.be/2Umjs2R50eI)
 | 04.11.26  | 08  | Generative Adversarial Networks (GANs)   |  [Whiteboard](Materials/DL08.pdf)<br> [Video](https://youtu.be/kIRnDgH39xM)
 | 11.11.26  | 09  | Audio Spectrograms   | [Whiteboard](Materials/DL09.pdf)<br> [Video](https://youtu.be/9Xo9wlMePjk)
-| 18.11.26  | 10  | Audio models for ASR and TTS. GAN models: DCGAN, Pix2Pix, CycleGAN, StyleGAN.  | Audio: [pptx](Materials/audio_models.pptx), [pdf](Materials/audio_models.pdf)<br> GANs: [pptx](Materials/GANs.pptx), [pdf](Materials/GANs.pdf)
+| 18.11.26  | 10  | Audio models for ASR and TTS. GAN models: DCGAN, Pix2Pix, CycleGAN, StyleGAN.  | Audio: [pptx](Materials/audio_models.pptx), [pdf](Materials/audio_models.pdf)<br> GANs: [pptx](Materials/GANs.pptx), [pdf](Materials/GANs.pdf)<br> [Video](https://youtu.be/LtTu4zLAw-A)
 | 25.11.26  | 11  |    |
 | 02.12.26  | 12  |    |
 
